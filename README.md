@@ -69,7 +69,6 @@ exe.ai is a full-stack AI development engine that takes a single prompt and turn
 
 ## Demo and Slides
 
-Paste your links below:  
 Slides Link:[slide link](https://www.canva.com/design/DAGieJ6prdo/uZ-GwO5j1S6dL4retpv33g/edit?utm_content=DAGieJ6prdo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Team
